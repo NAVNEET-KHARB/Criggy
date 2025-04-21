@@ -24,15 +24,15 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div className="footer-content-right">
-                    <h2>GET IN TUCH</h2>
+                    <h2>GET IN TOUCH</h2>
                     <ul>
                         <li>+1-212-456-333</li>
-                        <li>contact@tomato.com</li>
+                        <li>contact@criggy.com</li>
                     </ul>
                 </div>
             </div>
             <hr />
-            <p className="footer-copyright">Copyright 2924 @ Tomato.com - All Right Reserved</p>
+            <p className="footer-copyright">Copyright 2924 @ Criggy.com - All Right Reserved</p>
         </div>
     )
 }
